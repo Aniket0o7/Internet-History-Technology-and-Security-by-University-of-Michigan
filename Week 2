@@ -1,0 +1,123 @@
+Question 1
+What was the primary reason for the development of store and forward networks by the academic community?
+
+Leased lines were only sometimes connected
+By breaking the communication into shorter leased lines, and stopping at many universities along the way, overall cost was minimized.
+Leased lines were only available to businesses like banks
+Wireless communications like 4G were much slower than the leased copper wires from the phone company
+
+Correct
+By breaking the communication into shorter leased lines, and stopping at many universities along the way, overall cost was minimized.
+
+
+Question 2
+What is the relationship between the number of hops on the store and forward network, and the time taken for a message to be delivered? 
+
+For each new hop in the network the delivery time always doubles
+More hops in the network decrease delivery time
+More hops within the network usually result in a longer delivery time
+The number of hops don't matter because more hops means less traffic per hop
+
+Correct
+More hops within the network usually result in a longer delivery time
+
+Question 3
+What were the primary motivations for the Department of Defense to develop the research network ARPANET? 
+
+Cisco was using the ARPANET  to test the performance and reliability of its early products in the 1970's and 1980's
+There was a desire to make sure consumer hand-held devices would continue to function in case of nuclear war
+To improve computing equipment for military purposes, making it easier for people to access computers, and communicate more effectively across the military.
+They knew that if they built the ARPANET during the 1970's it would lay the groundwork for massive economic growth in the later 1990's
+
+Correct
+To improve computing equipment for military purposes, making it easier for people to access computers, and communicate more effectively across the military.
+
+Question 4
+What was the fundamental difference between the store and forward network of BITNET, and ARPANET? 
+
+The use of leased lines from the telephone company
+The use of computer terminals
+ARPANET was essentially a store-and-forward network for the U.S. Military
+Packet switching
+
+Correct
+Packet switching
+
+Question 5
+In the shared network, the role of the router is: 
+
+To quickly forward packets to the next router
+To store all of the possible routes between a pair of connected computers
+To store data when a network link went down
+To reassemble packets into the original message
+
+Correct
+To quickly forward packets to the next router
+
+Question 6
+What are the advantages of packet switching? 
+
+Many messages can be in-flight at the same time, preventing large messages from blocking small ones
+Packet switching slows all messages down to the speed of the slowest message
+Packet switching makes sure every packet takes exactly the same path from the source computer to the destination computer
+There is no major advantage and the decision to do packet switching was politically motivated
+
+Correct
+Many messages can be in-flight at the same time, preventing large messages from blocking small ones
+
+Question 7
+Why did the National Science Foundation decide to build a national shared network? 
+
+
+Microsoft wanted to build networking into Windows-95 and they needed a testbed for their new software
+It was very expensive to give each university its own supercomputer. A national shared network was more affordable.
+Cisco wanted someone to develop and test router technology so they could build a business around network hardware
+AT&T and other telephone companies wanted to give academics a chance to build a prototype of a next-generation fiber-optic network
+
+Correct
+It was very expensive to give each university its own supercomputer. A national shared network was more affordable.
+
+Question 8
+Larry Smarr was one of many instrumental players in creating the first national network. What do we learn from his interview? 
+
+From the first moment that NSFNet was turned on, Google was the most popular application
+Access to shared library resources (journals etc) were the primary motivator of the NSFNet
+Telephone companies were very supportive of NSFNet.
+That high performance computing needs at universities and the Internet were deeply connected
+
+Correct
+That high performance computing needs at universities and the Internet were deeply connected
+
+Question 9
+Why did the University of Michigan not participate in the ARPANET research project? 
+
+Michigan had its own state-wide network, consisting of 10 nodes
+Michigan had its own state-wide network, consisting of 3 nodes
+When Michigan first connected to ARPANET they crashed the network, and so were permanently removed from the project
+No states starting with the letter ‘M’ were included
+
+Correct
+Michigan had its own state-wide network, consisting of 3 nodes
+
+Question 10
+In the late 1980s, how did the first average citizens get Internet access? 
+
+First the 'academic-only' rules were quietly ignored and then later the 'academic-only' rules were removed completely
+Average citizens could purchase Internet access commercially
+Some citizens hacked into the network
+ARPANET became the first Internet Service Provider (ISP) and sold access to the NSFNet
+
+Correct
+Average citizens could purchase Internet access commercially
+
+Question 11
+What was the primary difference between the University of Michigan proposal to build the NSFNet, and the other proposals?
+
+The University of Michigan proposal used the superior store-and-forward approach. The other proposals used packet network approaches.
+The University of Michigan Proposal used partnerships to deliver $55Million of value for $15M of NSF funds awarded.
+The University of Michigan proposal included a search engine. The other proposals only had a directory-style lookup of Web resources.
+The University of Michigan proposal connected high-schools to the Internet. The other proposals only connected the supercomputer centers.
+
+Correct
+
+The University of Michigan Proposal used partnerships to deliver $55Million of value for $15M of NSF funds awarded.
