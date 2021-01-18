@@ -1,0 +1,289 @@
+1.
+Question 1
+Common Link Layer technologies are… (Choose all that apply)
+
+1 / 1 point
+
+Satellite
+
+
+Optical
+
+
+Smartphones
+
+
+DVD players
+
+Correct
+Satellite && Optical
+
+2.
+Question 2
+ When do wireless devices receive their serial numbers (i.e. MAC or Ethernet addresses)? 
+
+1 / 1 point
+
+Every time they connect to the internet
+
+
+When they pair with a wireless router
+
+
+These numbers are assigned to individual people, and every device they own has the same number
+
+
+When they are manufactured
+
+Correct
+
+When they are manufactured
+
+3.
+Question 3
+What does the time taken for a packet to reach a destination usually reflect? 
+
+1 / 1 point
+
+How large the total message or data element is
+
+
+How much the individual user sending the information has paid for their internet connection
+
+
+The speed of light and the distance the packet has to travel
+
+
+The type of data the packet makes up
+
+Correct
+The speed of light and the distance the packet has to travel
+
+4.
+Question 4
+How do wireless devices operating on a shared network determine when to send information so as not to incur chaos? 
+
+1 / 1 point
+
+They send requests to all other devices on the network, and wait to receive permission before transmitting data. 
+
+
+There is only one link to the network, and only one wireless device can connect at a time, so they are physically prevented from sending information unless it is their turn. 
+
+
+They listen to the sound on the current network, and send information when it is quiet. 
+
+
+They chart energy usage, and send information when the numbers are low
+
+Correct
+
+They listen to the sound on the current network, and send information when it is quiet. 
+
+5.
+Question 5
+What is the concern when deciding which device sends information next on Ethernet? 
+
+1 / 1 point
+
+Discouraging the sending of large messages by delaying their transmission in favor of smaller, faster messages
+
+
+Sending the most urgent emails before less important messages (like Farmville notifications)
+
+
+Ensuring fairness - that one type of device, data, or user is not preferred over others. 
+
+
+Prioritizing the customers who purchase premium internet plans
+
+Correct
+Ensuring fairness - that one type of device, data, or user is not preferred over others. 
+
+6.
+Question 6
+What is the maximum possible number of hops a packet can take to try to reach their destination (the so-called "Time To Live" functionality of packets)? 
+
+1 / 1 point
+
+255
+
+
+4
+
+
+150
+
+
+500
+
+Correct
+255
+
+7.
+Question 7
+What are Router Tables? 
+
+1 / 1 point
+
+Huge banks of routers, housed by Google, that direct Internet traffic
+
+
+Dynamic lists of directions for where and how to direct packets
+
+
+A linked trio of routers that manages incoming, outgoing, and within-network data transmissions. 
+
+
+An electrically enhanced table that, when you place a router on it, will increase your network speed
+
+Correct
+Dynamic lists of directions for where and how to direct packets
+
+8.
+Question 8
+What are the layers, and in what order do we structure them? 
+
+1 / 1 point
+
+Application Layer 
+
+Transport Layer 
+
+Internetwork Layer 
+
+Link Layer 
+
+
+Internetwork Layer 
+
+Application Layer 
+
+Link Layer 
+
+Transport Layer 
+
+
+Link Layer 
+
+Map Layer 
+
+Social Media Layer 
+
+Application Layer 
+
+
+Transport Layer 
+
+Packet Layer 
+
+Visual Layer 
+
+Link Layer 
+
+Correct
+
+Application Layer && Transport Layer && Internetwork Layer && Link Layer 
+
+9.
+Question 9
+What is the Internet Protocol Layer responsible for? 
+
+1 / 1 point
+
+Being 100% reliable
+
+
+Getting a packet to a specific network address
+
+
+Moving the packet onto the link
+
+
+Managing the order of data transmission from multiple computers on a wireless network
+
+Correct
+
+Getting a packet to a specific network address
+
+10.
+Question 10
+How is an IP address determined? 
+
+1 / 1 point
+
+By the hour in which the computer was most recently turned on
+
+
+Geographically
+
+
+By the date in which the owner first got an email account
+
+
+According to product manufacturing date
+
+Correct
+Geographically
+
+11.
+Question 11
+The prefix of an IP address determines what? 
+
+1 / 1 point
+
+The brand of computer
+
+
+The network that it belongs to
+
+
+The owner of the computer
+
+
+The default web browser installed
+
+Correct
+The network that it belongs to
+
+12.
+Question 12
+What is the Link Layer responsible for? 
+
+1 / 1 point
+
+Assigning domain names like www.coursera.org
+
+
+Pulling the data from a single link
+
+
+Storing each packet until it has been acknowledged for delivery
+
+
+Reporting which packets successfully arrived at their destination
+
+Correct
+
+Pulling the data from a single link
+
+13.
+Question 13
+Is it possible to track a packet's journey across the network? 
+
+1 / 1 point
+
+No, packets cannot be tracked. 
+
+
+Yes, using a technique called 'traceroute' which tracks the packets that are returned due to transmission failure. 
+
+
+Yes, using a service called 'packetfind' that tracks the transmission of all packets across the Internet. 
+
+
+Yes, using RIP (Router Information Protocol) which tracks the packets that successfully arrive at their destination. 
+
+Correct
+
+Yes, using a technique called 'traceroute' which tracks the packets that are returned due to transmission failure. 
