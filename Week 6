@@ -1,0 +1,154 @@
+1.
+Question 1
+What part of data transfer does TCP solve, and what part does IP solve? 
+
+1 / 1 point
+
+The reliability of data transmissions, and the security of the data. 
+The actual movement of the data, and the reliability of data transmissions
+The reliability of data transmissions, and the actual movement of the data
+The interface via which a user sends data, and the reliability of data transmissions 
+
+Correct
+The reliability of data transmissions, and the actual movement of the data
+
+
+2.
+Question 2
+What is window size in regards packet transfer? 
+
+1 / 1 point
+
+The size of the interface window a user sees on the screen and sends packets through
+The range of hours during the day that low-speed data is free on the Internet
+The amount of data that can be sent before receiving an acknowledgement
+The maximum number of packets belonging to an email or file uploaded to the internet
+
+Correct
+The reliability of data transmissions, and the actual movement of the data
+
+3.
+Question 3
+What was the problem that Van Jacobson experienced and worked to solve? 
+
+1 / 1 point
+
+Receiving partial and indecipherable sets of postcards in the mail
+Getting messages intended for other people
+Having his secure data stolen during transmission
+Extremely slow transmission of data when two fast internal networks were connected via a slow network.
+
+Correct
+Extremely slow transmission of data when two fast internal networks were connected via a slow network.
+
+4.
+Question 4
+The storage of unacknowledged data is whose responsibility?
+
+1 / 1 point
+
+The application layer of the sending computer
+The transport layer of the sending computer
+The link layer of the receiving computer
+The person sending the data
+Routers 
+
+Correct
+The transport layer of the sending computer
+
+5.
+Question 5
+How did Van Jacobson change TCP so that it would work properly? 
+
+1 / 1 point
+
+He changed routers to compress data when sending it across slow links.
+He changed the sending computer to send all of its data to the first router before any packets were sent across the slow link
+He changed the receiving computer to acknowledge data that had not yet been received
+He changed the sending computer to start sending data slowly and speed up as the data was acknowledged
+
+Correct
+He changed the sending computer to start sending data slowly and speed up as the data was acknowledged
+
+6.
+Question 6
+What do we learn from the four layer TCP about how to solve complex problems? 
+
+1 / 1 point
+
+Complex architecture diagrams help sell products to non-technical management staff
+Generally all software works best when it is broken into quarters with 1/4 of the problem assigned to equal sized teams.
+Applications like word processors need a Link and Transport layer
+Break things up into smaller pieces, and allow many different people and organizations to tackle each piece indvidually.
+
+Correct
+Break things up into smaller pieces, and allow many different people and organizations to tackle each piece indvidually.
+
+7.
+Question 7
+If you listened closely to the Bob Metcalfe video, he mentioned that Ethernet was designed after the early ARPANET had been designed and knowing how ARPANET would work allowed him to greatly simplify the design of Ethernet.  What problem did the first implementation of Ethernet at PARC assume would be solved at a higher level of the network architecture.
+
+0 / 1 point
+
+How to detect if electrical interference on the ethernet cable caused the data in a packet to be corrupted
+What address would be assigned to each device order to share the Ethernet cable
+Retransmitting lost or damaged packets
+How to deal with two computers attempting to start transmitting data at exactly the same time and corrupting each other's data
+
+Incorrect
+
+8.
+Question 8
+When we talk of the protocols that move data over the Internet, we talk of TCP/IP. Which of the following is FALSE about TCP/IP:
+
+1 / 1 point
+
+TCP will retransmit data if it is lost in the Internet
+TCP demands that data be stored in the sending computer until it is acknowledged
+IP makes use of TCP as its underlying transport mechanism
+TCP is a stream of bytes
+
+Correct
+IP makes use of TCP as its underlying transport mechanism
+
+9.
+Question 9
+In TCP, when does a sending system know it is safe to discard packets after it has sent them?
+
+1 / 1 point
+
+As soon as the sending computer has in IP address that came from DHCP
+After it has received an acknowledgement from the receiving system.
+As soon as the packet has a properly assigned IP address
+After the packet has successfully made it across the first hop
+
+Correct
+After it has received an acknowledgement from the receiving system.
+
+10.
+Question 10
+If you wanted to register the domain dr-chuck.go.com - who would you contact?
+
+1 / 1 point
+
+The owner of dr-chuck.com
+The IETF (Internet Engineering Task Force)
+The owner of go.com
+Jon Postel - Because he was the "numbers guy" in the ARPANET
+
+Correct
+The owner of go.com
+
+11.
+Question 11
+Which of the following is a domain name?
+
+1 / 1 point
+
+(734) 615-2000
+192.168.0.12
+00:1f:5b:81:62:e7
+www.umich.edu
+
+Correct
+www.umich.edu
