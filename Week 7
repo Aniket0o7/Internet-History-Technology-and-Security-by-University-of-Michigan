@@ -1,0 +1,244 @@
+1.
+Question 1
+What does the Application Layer expect from the Transport Layer? 
+
+1 / 1 point
+
+The Transport Layer tells the Application Layer the geographic location of all of the routers in the Internet
+
+
+A reliable pipe that delivers data  from another application across the Internet
+
+
+The Transport layer dynamically transports IP addresses to all of the computers connected to a Wifi Network.
+
+
+The Transport Layer accurately predicts the number of hops it will take to go across the country.
+
+
+The Application sends a Domain name through the Transport Layer and gets back an IP Address
+
+CorrectA reliable pipe that delivers data  from another application across the Internet
+2.
+Question 2
+If you were "hacking" the Hypertext Transport Protocol using the 'telnet' command, what command would you send to the web server once you are connected to retrieve a document? 
+
+1 / 1 point
+
+DNLD/DOC
+
+
+RETR
+
+
+DOCU-RETR
+
+
+GET 
+
+CorrectGET
+3.
+Question 3
+Which of the following are examples of applications in the application layer? (Choose all that apply)
+
+1 / 1 point
+
+Central Processing Unit
+
+
+Firefox
+
+
+Router
+
+
+Microsoft Outlook
+
+
+
+Slow Start
+Correct
+Firefox
+Microsoft Outlook
+4.
+Question 4
+When is the Internet 100% up and working? 
+
+1 / 1 point
+
+It never is. It is constantly having pieces connect, fail, disconnect, reboot, etc.
+
+
+When more than 2% of the Internet goes down, all routers simultaneously reboot to get back to 100%
+
+
+At midnight GMT, every day all routers reboot and the Internet is 100% up for about ten minutes
+
+
+Once a year the Internet is completely rebooted and stays at 100% for about ten minutes
+
+Correct
+It never is. It is constantly having pieces connect, fail, disconnect, reboot, etc.
+
+5.
+Question 5
+Last time! What are the layers of the internet, and the order in which we structure them? 
+
+1 / 1 point
+
+* Application 
+
+* Router
+
+* Link
+
+* IP
+
+
+* Application 
+
+* Transport
+
+* IP
+
+* Link
+
+
+* Port 
+
+* Transport
+
+* Application
+
+* Link
+
+
+* User 
+
+* Application
+
+* Link
+
+* Router
+
+Correct Application 
+
+* Transport
+
+* IP
+
+* Link
+6.
+Question 6
+What does the browser do when you click a Hypertext Link from your current web page to another web page? 
+
+1 / 1 point
+
+It connects to port 23 and sends the "DATA" command
+
+
+It does a Request-Response Cycle
+
+
+It does a relational database look up in the IMDB
+
+
+It looks at its most recent RSS feed for the Domain Name Service and selects a Network Number
+
+Correct
+It does a Request-Response Cycle
+7.
+Question 7
+What does port 23 do?
+
+1 / 1 point
+
+IMAP
+
+
+POP
+
+
+YouTube
+
+
+Telnet (Login)
+
+Correct
+Telnet (Login)
+8.
+Question 8
+What does port 80 do?
+
+1 / 1 point
+
+Telnet (login)
+
+
+SMTP
+
+
+HTTPS
+
+
+HTTP
+
+Correct
+HTTP
+9.
+Question 9
+RFCs are: 
+
+1 / 1 point
+
+Issued by the Internet Engineering Task Force (IETF)
+
+
+Blueprints for the locations for the fiber optic cables that run under the oceans
+
+
+Papers written by Physicists at CERN about Radio Frequency Colliders
+
+
+Curated by Paul Kunz at the Stanford Linear Accelerator (SLAC)
+
+Correct
+Issued by the Internet Engineering Task Force (IETF)
+10.
+Question 10
+Which of the following is most like a TCP/IP port number: 
+
+1 / 1 point
+
+Telephone extension
+
+
+Telephone area code
+
+
+Highway number
+
+
+Zip Code
+
+Correct
+Telephone extension
+11.
+Question 11
+What is a protocol? 
+
+1 / 1 point
+
+A set of rules that govern how different components of the Internet interact with each other
+
+
+A program used to scan for vulnerable ports on a network-connected computer
+
+
+A technique routers use to predict the traffic distribution over a long time period
+
+
+A technique for obscuring security algorithms
+
+Correct
+A set of rules that govern how different components of the Internet interact with each other
