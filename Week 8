@@ -1,0 +1,278 @@
+1.
+Question 1
+Which of the following is true of security?
+
+1 / 1 point
+
+Perfect security is achievable and cheap
+
+
+Perfect security is unachievable but you should always choose the most expensive option
+
+
+Perfect security is achievable but expensive
+
+
+Perfect security is unachievable and requires a trade-off with cost
+
+Correct
+Perfect security is unachievable and requires a trade-off with cost
+2.
+Question 2
+What is the difference between active and passive wiretapping?
+
+0 / 1 point
+
+Passive wiretapping and active wiretapping are different names for network snooping
+
+
+In active wiretapping the network is snooped whereas in passive wiretapping the network is altered
+
+
+In passive wiretapping the network is snooped whereas in active wiretapping the network data is altered
+
+
+In passive wiretapping only some of the network data is altered where in active wiretapping all of the network data is altered
+
+Incorrect
+In passive wiretapping only some of the network data is altered where in active wiretapping all of the network data is altered
+
+3.
+Question 3
+Integrity is preserved if
+
+1 / 1 point
+
+The information you receive has not been corrupted since it was sent no matter who sent it
+
+
+Information you receive is from who you think it is
+
+
+The information you receive is probably from who you think it is and has not been modified since it was sent
+
+
+
+
+
+Correct
+The information you receive is from who you think it is and has not been modified since it was sent
+4.
+Question 4
+Which of the following factors has the smallest effect on the strength of a cryptosystem?
+
+1 / 1 point
+
+The encryption algorithm
+
+
+The key distribution technique
+
+
+The key length
+
+
+The data being transmitted
+
+
+Correct
+
+The data being transmitted5.
+Question 5
+What is one possible advantage of public-key cryptosystems over secret-key ones?
+
+1 / 1 point
+
+Public-key cryptosystems can transmit more data than secret-key ones
+
+
+Public-key cryptosystems are always more secure than secret-key ones
+
+
+Public-key cryptosystems do not have the problem of secure key distribution
+
+Correct
+Public-key cryptosystems do not have the problem of secure key distribution
+6.
+Question 6
+What does it mean if a cryptosystem is symmetric-key in nature?
+
+1 / 1 point
+
+The key used for encryption is the backward version of the key used for decryption
+
+
+The key used for encryption is the same as the key used for decryption
+
+
+The key used for encryption is the from the key used for decryption but with a shared secret added to the end
+
+
+Correct
+
+The key used for encryption is a shortened version of the key used for decryption
+7.
+Question 7
+The following question is encrypted using a Caesar Cipher with a shift of 13.  You can use www.rot13.com to decrypt the question.
+
+Jub vf perqvgrq nf orvat bar bs gur vairagbef bs Rgurearg?
+
+1 / 1 point
+
+Tim Berners-Lee
+
+
+Bob Metcalfe
+
+
+Mitchell Baker
+
+
+Vint Cerf
+
+Correct
+Bob Metcalfe
+8.
+Question 8
+The following question is encrypted using a Caesar Cipher with a shift of 13.  You can use www.rot13.com to decrypt the question and answers.
+
+Jung qbrf gur Gjvggre unfugnt #VUGF fgnaq sbe?
+
+1 / 1 point
+
+Vagreaangvbany Uvtu Grpuabybtl Fheirl
+
+
+Vaqvtb, Uraan, Gnatrevar naq Fhasybjre
+
+
+Vagreany Uvtu Grpuabybtl Fbyhgvba
+
+
+Vagrearg Uvfgbel, Grpuabybtl, naq Frphevgl
+
+Correct
+
+Vagrearg Uvfgbel, Grpuabybtl, naq Frphevgl
+9.
+Question 9
+What is the SHA-1 hash of the string below as computed by http://www.dr-chuck.com/sha1.php
+
+The Transport Layer does retransmission
+
+1 / 1 point
+
+7e55f7be8dbc7024bcb8830527722e1791399edc
+
+
+1399edc7e55f7be8dbc7024bcb8830527722e179
+
+
+22e1791399edc7e55f7be8dbc7024
+
+
+7024bcb8830521399edc7e55f7be8dbc7722e179
+
+Correct
+
+1399edc7e55f7be8dbc7024bcb8830527722e179
+10.
+Question 10
+What does a cryptographic hash function do?
+
+1 / 1 point
+
+It converts input fixed-size bit strings into blocks of data
+
+
+It takes a block of data and returns a fixed-size bit string called the hash value
+
+
+It takes a block of data and randomly changes characters to numbers
+
+
+It computes the Hyperbolic Asymmetric Sine Harmonic (H.A.S.H.) for a sequence of audio data
+
+Correct
+
+
+It takes a block of data and returns a fixed-size bit string called the hash value11.
+Question 11
+What critical element does simple digest-based Message Signing, as described in the lecture, depend upon?
+
+1 / 1 point
+
+The secret should not be longer than the message
+
+
+The sharing of a secret transported securely ‘out of band’
+
+
+The message must be under 20 characters long
+
+
+Correct
+
+
+The geographic proximity of the transmitter and recipient of the message12.
+Question 12
+What is the problem with secret key distribution via the internet?
+
+1 / 1 point
+
+There is no problem
+
+
+The internet is too slow for sending keys
+
+
+The communication of the secret key is insecure
+
+
+The internet cannot handle the length of shared secret keys because they are longer than a single packet
+
+Correct
+
+The communication of the secret key is insecure
+
+13.
+Question 13
+You are going to send  the message below using shared secret of IHTS.   Use http://www.dr-chuck.com/sha1.php to compute your message digest using the technique from lecture.  What will the first six characters of the digest/signature that you send along with the message? 
+
+Be sure to drink more Ovaltine
+
+1 / 1 point
+
+e1c85e
+
+
+44dbc4
+
+
+2b5473
+
+
+8b4258
+
+Correct
+
+8b4258
+14.
+Question 14
+Select the valid signed message from Annie if your shared secret is IHTS? Use http://www.dr-chuck.com/sha1.php to compute your message digests using the technique from lecture. Only the first 6 characters of the SHA1 message digest are shown below.
+
+1 / 1 point
+
+Send money please7d47f3d4
+
+
+I have not been kidnapped by pirates32f4d3
+
+
+Everything is all right7dd244
+
+
+Meet me at the train station87fd2e
+
+Correct
+Everything is all right7dd244
