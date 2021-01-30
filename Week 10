@@ -1,0 +1,951 @@
+1.
+Question 1
+How did the top-secret computing technologies developed at Bletchley Park during World-War II impact computing technology after the war: 
+
+1 / 1 point
+
+The computer scientists used their knowledge of electronic computers to build the first generation of general purpose computers
+
+
+The plans for the computers at Bletchley Park were inadvertently leaked onto the Internet
+
+
+All of the computing equipment was shipped to CERN where is was stored underground beneath the border between Switzerland and France
+
+
+All the equipment at Bletchley Park was given to University College London(UCL) as part of a grant
+
+
+One of the computer scientists at Bletchley Park anonymously wrote a tell-all book that described secret technologies in great detail
+
+Correct
+The computer scientists used their knowledge of electronic computers to build the first generation of general purpose computers
+
+
+2.
+Question 2
+What did Alan Turing contribute to Computer Science? 
+
+1 / 1 point
+
+He founded the field of Artificial Intelligence
+
+
+He developed the Domain Name System that looks up IP addresses
+
+
+He helped design the IEEE 802.11 protocols that we now know as "WiFi"
+
+
+He designed the first object-oriented programming language
+
+
+He developed the slow-start algorithm for TCP 
+
+Correct
+He founded the field of Artificial Intelligence
+
+
+3.
+Question 3
+What was the primary reason the Colossus computer was faster than the BOMBE computer? 
+
+1 / 1 point
+
+The Colossus added cache memory to speed up instruction fetch
+
+
+The Colossus computer used Flash RAM rather than spinning disk drives
+
+
+The Colossus computer submerged its bearings in oil to allow it to spin four times faster
+
+
+The Colossus computer used vacuum tubes instead or gears and relays
+
+
+The Colossus computer sharded its databases across multiple servers to improve throughput
+
+Correct
+The Colossus computer used vacuum tubes instead or gears and relays
+
+
+4.
+Question 4
+Which of the following was the greatest weakness of store-and-forward networks like BITNET? 
+
+1 / 1 point
+
+IP addresses were geographical in nature but extremely difficult for users to keep track of
+
+
+Every new university that was added cost a lot of money because everyone needed a direct connection to the new university
+
+
+Because messages were broken into small pieces and sent individually, buffer overflow caused too many retransmissions
+
+
+If your message was behind a large message it would have to wait until the large message was completed before it was sent.
+
+
+Since it made extensive use of WiFi, it experienced significant outages due to weather
+
+Correct
+If your message was behind a large message it would have to wait until the large message was completed before it was sent.
+
+
+5.
+Question 5
+Which of the following is most like a "packet" on the Internet? 
+
+1 / 1 point
+
+A restaurant
+
+
+The intersection of two roads
+
+
+A cell phone antenna
+
+
+A three-ring binder
+
+
+A postcard
+
+Correct
+A postcard
+
+6.
+Question 6
+What was the original "stated" intention of the National Science Foundation Network (NSFNet)? 
+
+1 / 1 point
+
+To increase the demand for telephone company services
+
+
+To connect scientists to supercomputers
+
+
+To allow universities to switch to IP telephony to save per-office charges
+
+
+To increase the speed of E-Mail between universities
+
+
+To provide a communications infrastructure for the World-Wide-Web
+
+Correct
+
+To connect scientists to supercomputers
+
+
+7.
+Question 7
+Given the original five-year and 15 million dollar budget of the National Science Foundation Network (NSFNet), what was the expected speed of the national NSFNet backbone? 
+
+1 / 1 point
+
+56 thousand bits per second
+
+
+3 billion bits per second
+
+
+1.5 million bits per second
+
+
+1 billion bits per second
+
+
+45 million bits per second
+
+Correct
+56 thousand bits per second
+
+
+8.
+Question 8
+Which of the following is the best explanation as to why the web was invented at CERN? 
+
+1 / 1 point
+
+CERN was in possession of all of the top-secret communications equipment from Bletchley Park
+
+
+Well-funded smart people in a culture that was open and fun
+
+
+Being in Switzerland ensured that the project managers paid very close attention to detail
+
+
+The French government passed a law that all documents needed to be online by 1993
+
+
+At a 1985 IETF meeting in Columbus, Ohio the delegates agreed that CERN should invent the web
+
+Correct
+
+Well-funded smart people in a culture that was open and fun
+
+
+9.
+Question 9
+ Which of the following is something that Robert Cailliau and Tim Berners-Lee did not do? 
+
+1 / 1 point
+
+Invented the Hypertext Transport Protocol (HTTP)
+
+
+Invented the first object-oriented language (WWW++)
+
+
+Invented the first HTML editor
+
+
+Invented the Hypertext Markup Language (HTML)
+
+
+ Invented the first web browser
+
+Correct
+
+Invented the first object-oriented language (WWW++)
+
+
+10.
+Question 10
+Where was the first web server in America in production on December 12, 1991? 
+
+1 / 1 point
+
+Princeton University
+
+
+Harvard University
+
+
+National Center for Supercomputing Applications (NCSA) at University of Illinois
+
+
+University of Michigan 
+
+
+Stanford Linear Accelerator (SLAC)
+
+Correct
+Stanford Linear Accelerator (SLAC)
+
+11.
+Question 11
+What protocol was commonly used during 1990-1993 to organize and find information on the Internet that did not use the world-wide-web protocols? 
+
+1 / 1 point
+
+Gopher
+
+
+RTSP
+
+
+Yahoo!
+
+
+Altavista
+
+
+Wikipedia
+
+Correct
+Gopher
+
+
+12.
+Question 12
+Which of the following products could be thought of as the "early ancestor of the Mozilla Firefox browser"? 
+
+1 / 1 point
+
+NCSA Mosaic
+
+
+Cello
+
+
+Apple Safari
+
+
+Internet Explorer
+
+
+Opera
+
+Correct
+NCSA Mosaic
+
+
+13.
+Question 13
+Where was JavaScript developed at? 
+
+1 / 1 point
+
+Google
+
+
+University of Illinois
+
+
+Sun Microsystems
+
+
+Microsoft
+
+
+Netscape
+
+Correct
+Netscape
+
+
+14.
+Question 14
+What is the purpose of the World-Wide-Web Consortium? 
+
+1 / 1 point
+
+Developed privacy policies for Internet traffic that crossed international boundaries
+
+
+Act as a clearing house for open source software contributed by large corporations
+
+
+Define protocol documents for the IP and Link layers
+
+
+Define standards for the web and avoid proprietary balkanization of the web
+
+
+Ensured that traffic between any two nodes on the Internet would never need more than 15 hops
+
+Correct
+Define standards for the web and avoid proprietary balkanization of the web
+
+
+15.
+Question 15
+Why was the first product sold by Amazon books? 
+
+1 / 1 point
+
+Because there are over 3 million books in print
+
+
+Because books are the easiest product to covert to digital form for electronic distribution
+
+
+Because there would be great demand for new technology books fueled by the growth of the Internet
+
+
+Because books were increasingly being purchased on e-readers like the Kindle
+
+Correct
+Because there are over 3 million books in print
+
+
+16.
+Question 16
+Which of the following is most similar to an Internet router? 
+
+1 / 1 point
+
+A post card
+
+
+A string between two tin cans
+
+
+A train station
+
+
+A truck
+
+
+A license plate number for an automobile
+
+Correct
+A train station
+
+
+17.
+Question 17
+About how many separate physical connections (i.e. hops) will a packet cross on the Internet as it goes from University of Michigan to Stanford University? 
+
+1 / 1 point
+
+1
+
+
+64
+
+
+6
+
+
+36
+
+
+15
+
+Correct
+15
+
+
+18.
+Question 18
+What is the value of a layered network model? 
+
+1 / 1 point
+
+ It allows a complex design problem to be broken into smaller manageable parts
+
+
+It allows for the detection of security breaches at the lower layers before they get through all the layers
+
+
+It makes sure that university programmers and commercial programmers will not work on overlapping areas of the Internet
+
+
+It insures that the Internet is capable of replacing the telephone networks around the world
+
+
+It makes sure that at least one layer is working so internet data never stops flowing completely
+
+Correct
+ It allows a complex design problem to be broken into smaller manageable parts
+
+
+19.
+Question 19
+What is the IETF? 
+
+1 / 1 point
+
+It monitors traffic levels on network links that go between countries to insure that costs are evenly shared
+
+
+It is a coordinating body where the standards that define the inner workings of the Internet are developed and published
+
+
+It accumulates data packets that are lost due to congestion and returns them to the system that originally sent the data
+
+
+It is the protocol that web browsers use to retrieve documents from web servers
+
+
+It establishes policies for the pricing for domain names around the world
+
+Correct
+It is a coordinating body where the standards that define the inner workings of the Internet are developed and published
+
+
+20.
+Question 20
+Which is the lowest layer in the TCP/IP network model? 
+
+1 / 1 point
+
+Transport
+
+
+Internet
+
+
+Proto-Application
+
+
+Application
+
+
+Link
+
+Correct
+Link
+
+
+21.
+Question 21
+Which of the following is a Link Layer address? 
+
+1 / 1 point
+
+192.168.0.12
+
+
+2012-99-99
+
+
+00:1f:5b:81:62:e7
+
+
+www.coursera.org
+
+
+http://www.umich.edu/
+
+Correct
+00:1f:5b:81:62:e7
+
+22.
+Question 22
+Which of the following is *not* an attribute of the Internet (IP) Layer? 
+
+1 / 1 point
+
+It routes packets based on their network number
+
+
+It is designed to recover lost packets
+
+
+It moves data across a series of hops
+
+Correct
+It is designed to recover lost packets
+
+
+23.
+Question 23
+ What is the purpose of the TTL value in an IP packet? 
+
+1 / 1 point
+
+It ensures that a packet does not get stuck in an infinite loop in the Internet
+
+
+It makes sure that we can use easy to read addresses like www.coursera.org
+
+
+It records the network number of the next router that will forward the packet
+
+
+It makes sure that the same packet is never sent twice
+
+
+It compensates for lost packets by retransmitting them after a time period expires
+
+Correct
+It ensures that a packet does not get stuck in an infinite loop in the Internet
+
+
+24.
+Question 24
+Which of the following is a domain name? 
+
+1 / 1 point
+
+http://www.umich.edu/
+
+
+00:1f:5b:81:62:e7
+
+
+www.coursera.org
+
+
+192.168.0.12
+
+Correct
+www.coursera.org
+
+
+25.
+Question 25
+What problem did Van Jacobson solve in TCP? 
+
+1 / 1 point
+
+He invented the slow-start algorithm to keep systems from overloading a slow link
+
+
+He created the domain name system to allow us to find an IP address for a domain name efficiently
+
+
+He added compression to the link layer, greatly increasing throughput of the Internet
+
+
+He added encryption so it was safe to move credit card information across the Internet
+
+
+He made sure that commercial web traffic like Netflix would get higher priority than academic traffic or long file downloads
+
+Correct
+He invented the slow-start algorithm to keep systems from overloading a slow link
+
+
+26.
+Question 26
+When we talk of the protocols that move data over the Internet, we talk of TCP/IP.  Which of the following is FALSE about TCP/IP? 
+
+1 / 1 point
+
+TCP is a stream of bytes
+
+
+IP makes use of TCP as its underlying transport mechanism
+
+
+TCP provides reliable messaging where data arrives in order
+
+
+TCP will retransmit data if it is lost in the Internet
+
+
+IP provides "best effort" delivery of network packets
+
+Correct
+IP makes use of TCP as its underlying transport mechanism
+
+
+27.
+Question 27
+Secure TCP (TLS) is between which two layers? 
+
+1 / 1 point
+
+Application and Transport
+
+
+Link and Media
+
+
+Internet and Link
+
+
+Router and Link
+
+
+Transport and Internet
+
+Correct
+Application and Transport
+
+28.
+Question 28
+When you are using secure http and sending data between your computer and your bank's computer, where is the data encrypted and decrypted? 
+
+1 / 1 point
+
+Encrypted by your Internet Service Provider (ISP) and decrypted in the bank's ISP
+
+
+Encrypted and decrypted each time your message passes through a router
+
+
+Encrypted in your network card and decrypted by the bank's Internet Service Provider (ISP)
+
+
+Encrypted in your computer and decrypted in the bank's computer
+
+
+Encrypted by your keyboard and decrypted by the disk drive in the bank's computer
+
+Correct
+Encrypted in your computer and decrypted in the bank's computer
+
+
+29.
+Question 29
+Which of the following is a TCP port (such as port 80 for HTTP) most like? 
+
+1 / 1 point
+
+A country code for a telephone number
+
+
+A license plate number for an automobile
+
+
+A telephone extension
+
+
+A train station
+
+
+A train car
+
+Correct
+A telephone extension
+
+
+30.
+Question 30
+Which of the following commands is part of the Hypertext Transport Protocol (HTTP)? 
+
+1 / 1 point
+
+RETR
+
+
+GET
+
+
+PREFS
+
+
+SAVE_AS
+
+
+PING
+
+Correct
+GET
+
+
+31.
+Question 31
+What is the problem with secret key distribution via the internet? 
+
+1 / 1 point
+
+There is no problem - you just send all the secret keys across the internet in plain text
+
+
+Secret keys used a special character set that was not supported by TCP/IP
+
+
+Sending secret-key data crashed early routers and so it was banned after 1978
+
+
+We cannot all physically visit every web site and physically pick up a key book to work securely with that site
+
+
+Because secret keys were mostly numbers, they cause the Van Jacobson Algorithm to fail (slow start)
+
+Correct
+We cannot all physically visit every web site and physically pick up a key book to work securely with that site
+
+
+32.
+Question 32
+What does a cryptographic hash function do? 
+
+1 / 1 point
+
+It takes a block of data and computes a fixed-size bit string called the hash value
+
+
+It breaks long messages into smaller pieces (hashes) to allow for effective sharing of a link layer
+
+
+It determines the resonant frequency of digitized audio
+
+
+It takes non-printable data and makes it 8-bit clean
+
+Correct
+It takes a block of data and computes a fixed-size bit string called the hash value
+
+
+33.
+Question 33
+Which of the following is credited as one of the inventors of Public Key Cryptograhy in the 1970's?
+
+1 / 1 point
+
+Robert Cailliau
+
+
+Bob Mercalfe
+
+
+Whitfield Diffie
+
+
+Van Jacobson
+
+Correct
+Whitfield Diffie
+
+
+34.
+Question 34
+Which historical figure is credited with encrypting military messages using a simple "shifted alphabet"? 
+
+1 / 1 point
+
+Caesar
+
+
+Nostradamus
+
+
+Plato
+
+
+Archimedes
+
+Correct
+Caesar
+
+
+35.
+Question 35
+Which of the following are the steps to sign and send a message to insure that the message came from the sender and was not modified in transit? 
+
+1 / 1 point
+
+Append the shared secret to the message, compute the cryptographic hash of the message + secret, send the message + cryptographic hash across the internet
+
+
+Compute the cryptographic hash of the secret and send the message + the hash across the internet.
+
+
+Send the secret across the internet, receive the cryptographic hash from the other system and then send the message + cryptographic across the Internet
+
+
+Compute the cryptographic hash of the message, send the message + the hash + secret across the internet
+
+Correct
+Append the shared secret to the message, compute the cryptographic hash of the message + secret, send the message + cryptographic hash across the internet
+
+
+36.
+Question 36
+Which of the following statements is false 
+
+1 / 1 point
+
+Public key encryption cannot be broken
+
+
+It is not a problem if a public key is revealed to an eavesdropper
+
+
+A public key can be sent across an insecure medium
+
+
+Public key encryption is very difficult to break
+
+Correct
+Public key encryption cannot be broken
+
+
+37.
+Question 37
+What is the mathematical underpinnings of public key encryption? 
+
+1 / 1 point
+
+Prime numbers
+
+
+Venn Diagrams
+
+
+Calculus
+
+
+Trignometry
+
+
+Turing Machines
+
+
+Linear Algebra
+
+Correct
+Prime numbers
+
+
+38.
+Question 38
+Considering the four-layer TCP/IP model, which two layers does Secure Sockets Layer (SSL) fit between? 
+
+1 / 1 point
+
+IP and Link
+
+
+Application and TCP
+
+
+TCP and IP
+
+
+TCP and Link
+
+Correct
+Application and TCP
+
+
+39.
+Question 39
+If you are sending credit card information from a coffee shop WiFi to an Internet web site and later you find your credit card information has been stolen, which is the most likely scenario as to how your information was stolen? 
+
+1 / 1 point
+
+Someone guessed your credit card information by trying all possible 16-digit number sequences
+
+
+Someone gained access to the database on the vendor's web site and found all the credit cards
+
+
+Someone gained access to all the packets passing through the Internet Service Provider used by the coffee shop
+
+
+You did not use secure HTTP (https) at a coffee shop with an open WiFi
+
+Correct
+You did not use secure HTTP (https) at a coffee shop with an open WiFi
+
+
+40.
+Question 40
+Which of the following would be major a warning sign that indicates lax security practices when dealing with a site where you have an ID and Password? 
+
+1 / 1 point
+
+They use Captcha (where you have to type in hard-to-read text) as part of their log in process
+
+
+If you lose your password, you are forced to select a new password
+
+
+They use public / private key encryption for all the web transactions
+
+
+They can send you a mail message with the password you previously used to log in if you forget it
+
+Correct
+They can send you a mail message with the password you previously used to log in if you forget it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
